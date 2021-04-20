@@ -1,5 +1,5 @@
 # hpc_lecture
-
+21M31447 ZHU LIANWEN
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
