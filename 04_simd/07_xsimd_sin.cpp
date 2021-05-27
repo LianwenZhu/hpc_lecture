@@ -1,5 +1,6 @@
 #include <cstdio>
 #include <cmath>
+#include <cassert>
 #include "xsimd/xsimd.hpp"
 
 int main() {

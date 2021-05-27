@@ -1,4 +1,5 @@
 #include <cstdio>
+#include <cassert>
 #include "xsimd/xsimd.hpp"
 
 int main() {
